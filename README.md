@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ikedai1014
-- 👀 I’m interested in ... C, C++, C#, python3, Networking, Computer Science, embedded Systems
-- 🌱 I’m currently learning ... embedded Systems, Computer Science
+- 👀 I’m interested in ... Embedded Systems, Computer Science, Networking 
+- 🌱 I’m currently learning ... Embedded Systems, Computer Science
 - 👯 I’m looking to collaborate on ... same as above
-- 📫 How to reach me ... discord(ikedai1014), line, twitter(ikedai1014), email(ikedai.fps@gmail.com)
+- 📫 How to reach me ... discord(ikedai1014), twitter(ikedai1014), email(ikedai.fps@gmail.com)
