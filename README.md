@@ -2,4 +2,4 @@
 - 👀 I’m interested in ... Embedded Systems, Computer Science, Networking 
 - 🌱 I’m currently learning ... Embedded Systems, Computer Science
 - 👯 I’m looking to collaborate on ... same as above
-- 📫 How to reach me ... discord(ikedai1014), twitter(ikedai1014), email(ikedai.fps@gmail.com)
+- 📫 How to reach me ... discord(ikedai), twitter(ikedai1014)
